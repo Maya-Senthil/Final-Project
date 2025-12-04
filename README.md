@@ -13,7 +13,8 @@ add here!
 Katie:
 
 - Dataset: [wage-or-salary-income-in-the-past-12-months-for-households](https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-miscellaneous-data/resource/d159c6b3-f70a-439b-bd2b-0cb8735d76d4)
-- Description: In a survey done, they asked if you've had a wage/salary in the past 12 months. 
+- Description: In a survey done, they asked if you've had a wage/salary in the past 12 months.
+
 Annabelle:
 
 -Dataset: [https://data.wprdc.org/dataset/emergency-medical-service-districts/resource/9c817094-ab87-4ef8-b92a-e0e9289e7553]
