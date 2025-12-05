@@ -17,14 +17,14 @@ Katie (Wage or Salary Income in the Past 12 Months):
 
 Annabelle (Emergencies by Region):
 
-- Dataset: [https://data.wprdc.org/dataset/emergency-medical-service-districts/resource/9c817094-ab87-4ef8-b92a-e0e9289e7553]
+- Dataset: [emergency-medical-service-districts](https://data.wprdc.org/dataset/emergency-medical-service-districts/resource/9c817094-ab87-4ef8-b92a-e0e9289e7553)
 - Description: This data set pulled from many districts in Pittsburgh and measured the incidents regarding EMS per sqaure mile 
 add here!
 
 Maya (Number or Crimes in Pittsburgh Neighborhoods): 
-- Dataset: Monthly Criminal Activity - [https://data.wprdc.org/dataset/monthly-criminal-activity-dashboard]
+- Dataset: Monthly Criminal Activity - [monthly-criminal-activity-dashboard](https://data.wprdc.org/dataset/monthly-criminal-activity-dashboard)
 - Description: This dataset contains the criminal activity of each neighborhood in Pittsburgh, including the time, date, month, day, NIBRS offensive type and crime against, violation, and zone. 
 
 **Overview:**
-This project analyzes three different datasets with the general metric of Comfortability of Living, and focuses on three specific factors: Emergencies, Salary, and Crimes, to determine the best neighborhood in Pittsburgh. 
+This project analyzes three different datasets with the general metric of Comfortability of Living, and focuses on three specific factors: Emergencies, Salary, and Crimes, to determine the best neighborhood in Pittsburgh. In final-notebook, we include the analysis of selected datasets and how we selected the best neighborhood.
 
