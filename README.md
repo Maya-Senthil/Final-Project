@@ -26,5 +26,5 @@ Maya (Number or Crimes in Pittsburgh Neighborhoods):
 - Description: This dataset contains the criminal activity of each neighborhood in Pittsburgh, including the time, date, month, day, NIBRS offensive type and crime against, violation, and zone. 
 
 **Overview:**
-This project analyzes three different datasets with the general metric of Comfortability of Living, and focuses on three specific factors: Emergencies, Salary, and Crimes, to determine the best neighborhood in Pittsburgh. In final-notebook, we include the analysis of selected datasets and how we selected the best neighborhood.
+This project analyzes three different datasets with the general metric of Comfortability of Living, and focuses on three specific factors: Emergencies, Salary, and Crimes, to determine the best neighborhood in Pittsburgh. In final-notebook, we include the analysis of our selected datasets and how we selected the best neighborhood.
 
